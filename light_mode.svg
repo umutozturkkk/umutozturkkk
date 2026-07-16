@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas,Menlo,monospace" width="985px" height="557px" font-size="16px">
+<style>
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+.addColor {fill: #1a7f37;}
+.delColor {fill: #cf222e;}
+.cc {fill: #6e7781;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="984px" height="556px" x="0.5" y="0.5" fill="#fffefe" rx="15" stroke="#d0d7de" stroke-width="1"/>
+<text x="25" y="40" fill="#24292f" font-size="12px">
+<tspan x="25" y="40">               #%#%#####%%</tspan>
+<tspan x="25" y="52">         %######%%%%%%%%%####%</tspan>
+<tspan x="25" y="64">      %##%%%%%%%%%%@@@%%%%%%%%##%</tspan>
+<tspan x="25" y="76">     %%%%%%%%@%%@%@@@@@@@@@@%%%%####</tspan>
+<tspan x="25" y="88">    ##@@@@@%%@%@@@@@@@@@@@@@@@%%@#%#%</tspan>
+<tspan x="25" y="100">   #%@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%#</tspan>
+<tspan x="25" y="112">  %%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%##</tspan>
+<tspan x="25" y="124">  @@@@@@@@@@@@@@@@@@@@@@@%%%@@@@@@@%#%</tspan>
+<tspan x="25" y="136"> %@@@@@%**+++++**+++=-:::::-=+*@@@@@##</tspan>
+<tspan x="25" y="148"> @@@@@+---:::::::::........:::-=%@@@%#</tspan>
+<tspan x="25" y="160">@@@@%+--:::..................::--#@@@#</tspan>
+<tspan x="25" y="172">@@@@*---::....................:::=%@@%</tspan>
+<tspan x="25" y="184">@@@%=--::.....................:::-+@%#</tspan>
+<tspan x="25" y="196">@@@#=--:::.....................:::=@%</tspan>
+<tspan x="25" y="208">%@@#----==++***+==:....:-=++=--:::-%%</tspan>
+<tspan x="25" y="220"> @@#--+=-----==++=-..:-=+***++++=--%%</tspan>
+<tspan x="25" y="232"> %@#---===+=++**+=-..:=+*+===----==%</tspan>
+<tspan x="25" y="244">+=**---=*##%#%+*+=-..:++*+%@*#+=-:-=+</tspan>
+<tspan x="25" y="256">++=+-::--======----..:=--======-::-=</tspan>
+<tspan x="25" y="268"> :-+-::......::::-:..:--::::::::::--</tspan>
+<tspan x="25" y="280"> ::=--::.......:--:...:-::.....:::+-</tspan>
+<tspan x="25" y="292">  -+=-::.....:-=--:...::-:......::*+</tspan>
+<tspan x="25" y="304">  -*+--::::::---+*=-:-=+--::..:::=*</tspan>
+<tspan x="25" y="316">   #+----::----=+****#*+--:-::::-*@</tspan>
+<tspan x="25" y="328">    #=-----+*#%%%@%%%%@%%%*=-::--#</tspan>
+<tspan x="25" y="340">    %+==--=@@%##****+***#%@#-::-*</tspan>
+<tspan x="25" y="352">     %++==-=---=++++++++=-=----+%</tspan>
+<tspan x="25" y="364">     @#*+===:::-+*#%##*----=-=*%</tspan>
+<tspan x="25" y="376">      #%%##+=-:::=+#%*=:-=*#+#%</tspan>
+<tspan x="25" y="388">      =*@@@@#+=-:----==-=#%@@%-:</tspan>
+<tspan x="25" y="400">      -=+%@@@@#++=+++*##%@@@*--:</tspan>
+<tspan x="25" y="412">      =--=+#@@@@@@@@@@@@@@#=--+.</tspan>
+<tspan x="25" y="424">       =---===#@@@@@@@@%+===-=-</tspan>
+<tspan x="25" y="436">        =-----============--==</tspan>
+<tspan x="25" y="448">        .=-------=======----=</tspan>
+<tspan x="25" y="460">         .---::::-----:----=</tspan>
+<tspan x="25" y="472">       ..  --::.::::::::---   .</tspan>
+<tspan x="25" y="484">      ::.    ::........:::  .::::</tspan>
+<tspan x="25" y="496">    :.         .:.......  ...    .</tspan>
+<tspan x="25" y="508">                 ::....  .</tspan>
+<tspan x="25" y="520">                  .:.</tspan>
+</text>
+<text x="344" y="40" fill="#24292f">
+<tspan x="344" y="40"><tspan class="key">umut@ozturk</tspan><tspan class="cc"> ——————————————————————————————————————</tspan></tspan>
+<tspan x="344" y="60" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">macOS, iOS</tspan>
+<tspan x="344" y="80" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Xcode, VS Code, Claude Code</tspan>
+<tspan x="344" y="100" class="cc">. </tspan><tspan class="key">Company</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Sentez — indie app studio</tspan>
+<tspan x="344" y="120" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">AI-powered mobile apps</tspan>
+<tspan x="344" y="140" class="cc">. </tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">TypeScript, JavaScript, Swift, Python</tspan>
+<tspan x="344" y="160" class="cc">. </tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">React Native, Node.js, Firebase, Vite</tspan>
+<tspan x="344" y="180" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">umut.ozturk@sentez.co</tspan>
+<tspan x="344" y="220"><tspan class="key">umut@github</tspan><tspan class="cc"> ——————————————————————————————————————</tspan></tspan>
+<tspan x="344" y="240" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ........ </tspan><tspan id="repo_data" class="value">14</tspan><tspan class="cc"> (Contributed: </tspan><tspan id="contrib_data" class="value">16</tspan><tspan class="cc">)</tspan>
+<tspan x="344" y="260" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ...... </tspan><tspan id="commit_data" class="value">2,094</tspan>
+<tspan x="344" y="280" class="cc">. </tspan><tspan class="key">Stars</tspan>:<tspan class="cc"> ........ </tspan><tspan id="star_data" class="value">0</tspan>
+<tspan x="344" y="300" class="cc">. </tspan><tspan class="key">Followers</tspan>:<tspan class="cc"> .... </tspan><tspan id="follower_data" class="value">4</tspan>
+<tspan x="344" y="320" class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc">  </tspan><tspan id="loc_data" class="value">850,169</tspan><tspan class="cc"> ( </tspan><tspan id="loc_add" class="addColor">908,224++</tspan><tspan class="cc">, </tspan><tspan id="loc_del" class="delColor">58,055--</tspan><tspan class="cc"> )</tspan>
+</text>
+</svg>
