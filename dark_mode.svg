@@ -62,10 +62,10 @@ text, tspan {white-space: pre;}
 <tspan x="344" y="160" class="cc">. </tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">React Native, Node.js, Firebase, Vite</tspan>
 <tspan x="344" y="180" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">umut.ozturk@sentez.co</tspan>
 <tspan x="344" y="220"><tspan class="key">umut@github</tspan><tspan class="cc"> ——————————————————————————————————————</tspan></tspan>
-<tspan x="344" y="240" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ........ </tspan><tspan id="repo_data" class="value">2</tspan><tspan class="cc"> (Contributed: </tspan><tspan id="contrib_data" class="value">0</tspan><tspan class="cc">)</tspan>
+<tspan x="344" y="240" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ........ </tspan><tspan id="repo_data" class="value">14</tspan><tspan class="cc"> (Contributed: </tspan><tspan id="contrib_data" class="value">16</tspan><tspan class="cc">)</tspan>
 <tspan x="344" y="260" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ...... </tspan><tspan id="commit_data" class="value">2,095</tspan>
 <tspan x="344" y="280" class="cc">. </tspan><tspan class="key">Stars</tspan>:<tspan class="cc"> ........ </tspan><tspan id="star_data" class="value">0</tspan>
 <tspan x="344" y="300" class="cc">. </tspan><tspan class="key">Followers</tspan>:<tspan class="cc"> .... </tspan><tspan id="follower_data" class="value">4</tspan>
-<tspan x="344" y="320" class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc">  </tspan><tspan id="loc_data" class="value">7,325</tspan><tspan class="cc"> ( </tspan><tspan id="loc_add" class="addColor">7,682++</tspan><tspan class="cc">, </tspan><tspan id="loc_del" class="delColor">357--</tspan><tspan class="cc"> )</tspan>
+<tspan x="344" y="320" class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc">  </tspan><tspan id="loc_data" class="value">850,494</tspan><tspan class="cc"> ( </tspan><tspan id="loc_add" class="addColor">908,565++</tspan><tspan class="cc">, </tspan><tspan id="loc_del" class="delColor">58,071--</tspan><tspan class="cc"> )</tspan>
 </text>
 </svg>
