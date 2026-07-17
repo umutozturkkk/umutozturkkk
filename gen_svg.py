@@ -65,9 +65,9 @@ def cc(text):
 
 
 def title(y, name):
+    # Plain fg color (white on dark), like Andrew6rant's section headers.
     dashes = "—" * (TOTAL_COLS - len(name) - 1)
-    return (f'<tspan x="{RIGHT_X}" y="{y}"><tspan class="key">{name}</tspan>'
-            f'<tspan class="cc"> {dashes}</tspan></tspan>')
+    return f'<tspan x="{RIGHT_X}" y="{y}">{name} {dashes}</tspan>'
 
 
 for theme_name, c in THEMES.items():
