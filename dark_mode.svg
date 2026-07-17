@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas,Menlo,monospace" width="985px" height="557px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas,Menlo,monospace" width="1062px" height="545px" font-size="16px">
 <style>
 .key {fill: #ffa657;}
 .value {fill: #a5d6ff;}
@@ -8,7 +8,7 @@
 .cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="984px" height="556px" x="0.5" y="0.5" fill="#161b22" rx="15"/>
+<rect width="1061px" height="544px" x="0.5" y="0.5" fill="#161b22" rx="15"/>
 <text x="25" y="40" fill="#c9d1d9" font-size="12px">
 <tspan x="25" y="40">               #%#%#####%%</tspan>
 <tspan x="25" y="52">         %######%%%%%%%%%####%</tspan>
@@ -49,23 +49,28 @@ text, tspan {white-space: pre;}
 <tspan x="25" y="472">       ..  --::.::::::::---   .</tspan>
 <tspan x="25" y="484">      ::.    ::........:::  .::::</tspan>
 <tspan x="25" y="496">    :.         .:.......  ...    .</tspan>
-<tspan x="25" y="508">                 ::....  .</tspan>
-<tspan x="25" y="520">                  .:.</tspan>
+<tspan x="25" y="508"> </tspan>
 </text>
 <text x="344" y="40" fill="#c9d1d9">
-<tspan x="344" y="40"><tspan class="key">umut@ozturk</tspan><tspan class="cc"> ——————————————————————————————————————</tspan></tspan>
-<tspan x="344" y="60" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">macOS, iOS</tspan>
-<tspan x="344" y="80" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Xcode, VS Code, Claude Code</tspan>
-<tspan x="344" y="100" class="cc">. </tspan><tspan class="key">Company</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Sentez — indie app studio</tspan>
-<tspan x="344" y="120" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">AI-powered mobile apps</tspan>
-<tspan x="344" y="140" class="cc">. </tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">TypeScript, JavaScript, Swift, Python</tspan>
-<tspan x="344" y="160" class="cc">. </tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">React Native, Node.js, Firebase, Vite</tspan>
-<tspan x="344" y="180" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">umut.ozturk@sentez.co</tspan>
-<tspan x="344" y="220"><tspan class="key">umut@github</tspan><tspan class="cc"> ——————————————————————————————————————</tspan></tspan>
-<tspan x="344" y="240" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ........ </tspan><tspan id="repo_data" class="value">14</tspan><tspan class="cc"> (Contributed: </tspan><tspan id="contrib_data" class="value">16</tspan><tspan class="cc">)</tspan>
-<tspan x="344" y="260" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ...... </tspan><tspan id="commit_data" class="value">2,095</tspan>
-<tspan x="344" y="280" class="cc">. </tspan><tspan class="key">Stars</tspan>:<tspan class="cc"> ........ </tspan><tspan id="star_data" class="value">0</tspan>
-<tspan x="344" y="300" class="cc">. </tspan><tspan class="key">Followers</tspan>:<tspan class="cc"> .... </tspan><tspan id="follower_data" class="value">4</tspan>
-<tspan x="344" y="320" class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc">  </tspan><tspan id="loc_data" class="value">850,494</tspan><tspan class="cc"> ( </tspan><tspan id="loc_add" class="addColor">908,565++</tspan><tspan class="cc">, </tspan><tspan id="loc_del" class="delColor">58,071--</tspan><tspan class="cc"> )</tspan>
+<tspan x="344" y="40"><tspan class="key">umut@ozturk</tspan><tspan class="cc"> ————————————————————————————————————————————————————————————</tspan></tspan>
+<tspan x="344" y="60" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan id="age_dots" class="cc"> .................................. </tspan><tspan id="age_data" class="value">26 years, 6 months, 20 days</tspan>
+<tspan x="344" y="80" class="cc">. </tspan><tspan class="key">Company</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Sentez | AI-driven Portfolio Company</tspan>
+<tspan x="344" y="100" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">AI-powered mobile apps, and mobile games</tspan>
+<tspan x="344" y="120" class="cc">. </tspan><tspan class="key">Apps</tspan>:<tspan id="apps_dots" class="cc"> ....................................... </tspan><tspan id="apps_data" class="value">20 live on the App Store</tspan>
+<tspan x="344" y="140" class="cc">. </tspan><tspan class="key">Hobbies</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">Gaming, Sports, Anime</tspan>
+<tspan x="344" y="180"><tspan class="key">umut@stack</tspan><tspan class="cc"> —————————————————————————————————————————————————————————————</tspan></tspan>
+<tspan x="344" y="200" class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">TypeScript, JavaScript, Swift, Python, C++</tspan>
+<tspan x="344" y="220" class="cc">. </tspan><tspan class="key">Languages.Computer</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">HTML, CSS, JSON, YAML, Bash</tspan>
+<tspan x="344" y="240" class="cc">. </tspan><tspan class="key">Languages.Real</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">English, Turkish, Japanese</tspan>
+<tspan x="344" y="260" class="cc">. </tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">React Native, Node.js, Firebase, Vite</tspan>
+<tspan x="344" y="300"><tspan class="key">umut@contact</tspan><tspan class="cc"> ———————————————————————————————————————————————————————————</tspan></tspan>
+<tspan x="344" y="320" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">umutozturk134@gmail.com</tspan>
+<tspan x="344" y="340" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">linkedin.com/in/umutozturkkk</tspan>
+<tspan x="344" y="360" class="cc">. </tspan><tspan class="key">Web</tspan>:<tspan class="cc"> ................................................. </tspan><tspan class="value">umut-ozturk.com</tspan>
+<tspan x="344" y="400"><tspan class="key">umut@github</tspan><tspan class="cc"> ————————————————————————————————————————————————————————————</tspan></tspan>
+<tspan x="344" y="420" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan id="repo_dots" class="cc"> .......................................... </tspan><tspan id="repo_data" class="value">14</tspan><tspan class="cc"> (Contributed: </tspan><tspan id="contrib_data" class="value">16</tspan><tspan class="cc">)</tspan>
+<tspan x="344" y="440" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan id="commit_dots" class="cc"> ....................................................... </tspan><tspan id="commit_data" class="value">2,095</tspan>
+<tspan x="344" y="460" class="cc">. </tspan><tspan class="key">Followers</tspan>:<tspan id="follower_dots" class="cc"> ......................................................... </tspan><tspan id="follower_data" class="value">4</tspan>
+<tspan x="344" y="480" class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan id="loc_dots" class="cc"> ....................... </tspan><tspan id="loc_data" class="value">850,494</tspan><tspan class="cc"> ( </tspan><tspan id="loc_add" class="addColor">908,565++</tspan><tspan class="cc">, </tspan><tspan id="loc_del" class="delColor">58,071--</tspan><tspan class="cc"> )</tspan>
 </text>
 </svg>

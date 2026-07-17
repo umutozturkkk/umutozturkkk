@@ -1,4 +1,5 @@
-<!-- Neofetch-style profile card, updated daily by .github/workflows/update-stats.yml.
+<!-- Neofetch-style profile card. Stats are refreshed periodically by running
+     update_stats.py locally (see repo root).
      Layout inspired by github.com/Andrew6rant - implementation is original. -->
 <a href="https://github.com/umutozturkkk/umutozturkkk">
   <picture>
